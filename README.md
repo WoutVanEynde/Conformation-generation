@@ -1,3 +1,3 @@
-# Conformation-generation
+# Database preparation
 
-Scripts for generation of small molecule conformations using MOE CLI.
+Scripts for generation of small molecule databases using MOE CLI.
